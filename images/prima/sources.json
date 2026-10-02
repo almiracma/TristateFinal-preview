@@ -1,0 +1,37 @@
+[
+  {
+    "asset": "images/prima/doorbell-family.png",
+    "source_pdf": "pdf/Tri State Fire & Security Systems Brochure.pdf",
+    "image_reference": 106,
+    "width": 1024,
+    "height": 812
+  },
+  {
+    "asset": "images/prima/panel-security.png",
+    "source_pdf": "pdf/Tri State Fire & Security Systems Brochure.pdf",
+    "image_reference": 564,
+    "width": 640,
+    "height": 431
+  },
+  {
+    "asset": "images/prima/panel-climate.png",
+    "source_pdf": "pdf/Tri State Fire & Security Systems Brochure.pdf",
+    "image_reference": 560,
+    "width": 640,
+    "height": 431
+  },
+  {
+    "asset": "images/prima/panel-home-controls.png",
+    "source_pdf": "pdf/Tri State Fire & Security Systems Brochure.pdf",
+    "image_reference": 572,
+    "width": 635,
+    "height": 428
+  },
+  {
+    "asset": "images/prima/panel-weather.png",
+    "source_pdf": "pdf/Tri State Fire & Security Systems Brochure.pdf",
+    "image_reference": 568,
+    "width": 632,
+    "height": 425
+  }
+]

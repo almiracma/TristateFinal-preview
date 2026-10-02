@@ -1,0 +1,984 @@
+[
+  {
+    "source" : "images\/Alarm_install.JPG",
+    "sourceHeight" : 727,
+    "sourceSHA256" : "cfb9e2b8fa2e35df70620e3bece51b7407b55029b095fcb4336ebc6b859a34f8",
+    "sourceWidth" : 527,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/Alarm_install-348w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/Alarm_install-348w.jpg",
+        "width" : 348
+      },
+      {
+        "avif" : "images\/enhanced\/Alarm_install-696w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/Alarm_install-696w.jpg",
+        "width" : 696
+      },
+      {
+        "avif" : "images\/enhanced\/Alarm_install-1392w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/Alarm_install-1392w.jpg",
+        "width" : 1392
+      }
+    ]
+  },
+  {
+    "source" : "images\/IMG_3636.jpg",
+    "sourceHeight" : 1164,
+    "sourceSHA256" : "e80888108051ef62f8bbc19d7a74daf6e818a0b6c686c4cb50d0b0007af8ec7b",
+    "sourceWidth" : 1125,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/IMG_3636-464w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/IMG_3636-464w.jpg",
+        "width" : 464
+      },
+      {
+        "avif" : "images\/enhanced\/IMG_3636-928w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/IMG_3636-928w.jpg",
+        "width" : 928
+      },
+      {
+        "avif" : "images\/enhanced\/IMG_3636-1856w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/IMG_3636-1856w.jpg",
+        "width" : 1856
+      }
+    ]
+  },
+  {
+    "source" : "images\/IMG_3687.JPG",
+    "sourceHeight" : 487,
+    "sourceSHA256" : "adb5bba3f26fce22840cc236355f9c2218bd3f6a0a2dc13003fd95971eafd233",
+    "sourceWidth" : 735,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/IMG_3687-480w.avif",
+        "height" : 318,
+        "path" : "images\/enhanced\/IMG_3687-480w.jpg",
+        "width" : 480
+      },
+      {
+        "avif" : "images\/enhanced\/IMG_3687-960w.avif",
+        "height" : 636,
+        "path" : "images\/enhanced\/IMG_3687-960w.jpg",
+        "width" : 960
+      },
+      {
+        "avif" : "images\/enhanced\/IMG_3687-1920w.avif",
+        "height" : 1272,
+        "path" : "images\/enhanced\/IMG_3687-1920w.jpg",
+        "width" : 1920
+      }
+    ]
+  },
+  {
+    "source" : "images\/IMG_5432.jpg",
+    "sourceHeight" : 800,
+    "sourceSHA256" : "a5480a2c94de1c505b9697ad11ed145be4b0305cee30798fbce2708e6bf386f4",
+    "sourceWidth" : 600,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/IMG_5432-360w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/IMG_5432-360w.jpg",
+        "width" : 360
+      },
+      {
+        "avif" : "images\/enhanced\/IMG_5432-720w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/IMG_5432-720w.jpg",
+        "width" : 720
+      },
+      {
+        "avif" : "images\/enhanced\/IMG_5432-1440w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/IMG_5432-1440w.jpg",
+        "width" : 1440
+      }
+    ]
+  },
+  {
+    "source" : "images\/Walmart_Pump_Install_AZ.jpeg",
+    "sourceHeight" : 640,
+    "sourceSHA256" : "d4ef24c3e34685903926f836910f6398489ec6efb87cd25af82d2e0c0050c652",
+    "sourceWidth" : 480,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/Walmart_Pump_Install_AZ-360w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/Walmart_Pump_Install_AZ-360w.jpg",
+        "width" : 360
+      },
+      {
+        "avif" : "images\/enhanced\/Walmart_Pump_Install_AZ-720w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/Walmart_Pump_Install_AZ-720w.jpg",
+        "width" : 720
+      },
+      {
+        "avif" : "images\/enhanced\/Walmart_Pump_Install_AZ-1440w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/Walmart_Pump_Install_AZ-1440w.jpg",
+        "width" : 1440
+      }
+    ]
+  },
+  {
+    "source" : "images\/airport_hanger_canopy.jpeg",
+    "sourceHeight" : 775,
+    "sourceSHA256" : "d43788ef58dff0c3dd5cd01fe1c89a164b0e42e3101caf87d3e7196e0e66e136",
+    "sourceWidth" : 438,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/airport_hanger_canopy-271w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/airport_hanger_canopy-271w.jpg",
+        "width" : 271
+      },
+      {
+        "avif" : "images\/enhanced\/airport_hanger_canopy-543w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/airport_hanger_canopy-543w.jpg",
+        "width" : 543
+      },
+      {
+        "avif" : "images\/enhanced\/airport_hanger_canopy-1085w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/airport_hanger_canopy-1085w.jpg",
+        "width" : 1085
+      }
+    ]
+  },
+  {
+    "source" : "images\/backflow__device__installation.jpg",
+    "sourceHeight" : 840,
+    "sourceSHA256" : "4d2d4ed12da8df3daaf530fe6ca2d06b8781629ab79474c6b14350550566846c",
+    "sourceWidth" : 800,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/backflow__device__installation-457w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/backflow__device__installation-457w.jpg",
+        "width" : 457
+      },
+      {
+        "avif" : "images\/enhanced\/backflow__device__installation-914w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/backflow__device__installation-914w.jpg",
+        "width" : 914
+      },
+      {
+        "avif" : "images\/enhanced\/backflow__device__installation-1829w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/backflow__device__installation-1829w.jpg",
+        "width" : 1829
+      }
+    ]
+  },
+  {
+    "source" : "images\/backflow_installation.JPG",
+    "sourceHeight" : 1054,
+    "sourceSHA256" : "8da42049079a851b4c9a56abc2e5606af5835702dc687197902a2ae38cbe2dad",
+    "sourceWidth" : 800,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/backflow_installation-364w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/backflow_installation-364w.jpg",
+        "width" : 364
+      },
+      {
+        "avif" : "images\/enhanced\/backflow_installation-729w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/backflow_installation-729w.jpg",
+        "width" : 729
+      },
+      {
+        "avif" : "images\/enhanced\/backflow_installation-1457w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/backflow_installation-1457w.jpg",
+        "width" : 1457
+      }
+    ]
+  },
+  {
+    "source" : "images\/brochure-readable\/page-1.jpg",
+    "sourceHeight" : 5533,
+    "sourceSHA256" : "1e6cbec2f6818c49e7ff2964e90e942bd77d05e9ca9fbfa6dd75dfc5c4766f50",
+    "sourceWidth" : 2400,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/page-1-208w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/page-1-208w.jpg",
+        "width" : 208
+      },
+      {
+        "avif" : "images\/enhanced\/page-1-416w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/page-1-416w.jpg",
+        "width" : 416
+      },
+      {
+        "avif" : "images\/enhanced\/page-1-833w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/page-1-833w.jpg",
+        "width" : 833
+      }
+    ]
+  },
+  {
+    "source" : "images\/brochure-readable\/page-2.jpg",
+    "sourceHeight" : 5533,
+    "sourceSHA256" : "e7b5039d9b03d37db2fb3de1bc93582a062245903da7d57dfe8a7a18638fcc2e",
+    "sourceWidth" : 2400,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/page-2-208w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/page-2-208w.jpg",
+        "width" : 208
+      },
+      {
+        "avif" : "images\/enhanced\/page-2-416w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/page-2-416w.jpg",
+        "width" : 416
+      },
+      {
+        "avif" : "images\/enhanced\/page-2-833w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/page-2-833w.jpg",
+        "width" : 833
+      }
+    ]
+  },
+  {
+    "source" : "images\/brochure-readable\/page-3.jpg",
+    "sourceHeight" : 5533,
+    "sourceSHA256" : "6d99755a37d7eed1442434a8c8278aa96ce83d5c8534b4489e5a8d03adfa9cd5",
+    "sourceWidth" : 2400,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/page-3-208w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/page-3-208w.jpg",
+        "width" : 208
+      },
+      {
+        "avif" : "images\/enhanced\/page-3-416w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/page-3-416w.jpg",
+        "width" : 416
+      },
+      {
+        "avif" : "images\/enhanced\/page-3-833w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/page-3-833w.jpg",
+        "width" : 833
+      }
+    ]
+  },
+  {
+    "source" : "images\/brochure-readable\/page-4.jpg",
+    "sourceHeight" : 5533,
+    "sourceSHA256" : "a139156d567dc160139622e8d3d55156d0fd35d4870e21ce8391e812bfbfb63b",
+    "sourceWidth" : 2400,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/page-4-208w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/page-4-208w.jpg",
+        "width" : 208
+      },
+      {
+        "avif" : "images\/enhanced\/page-4-416w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/page-4-416w.jpg",
+        "width" : 416
+      },
+      {
+        "avif" : "images\/enhanced\/page-4-833w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/page-4-833w.jpg",
+        "width" : 833
+      }
+    ]
+  },
+  {
+    "source" : "images\/brochure-readable\/page-5.jpg",
+    "sourceHeight" : 5533,
+    "sourceSHA256" : "4102fad745296c6e2ac1058cf4d81bbf7ba5c3059f354c31fdf90f4eb761e536",
+    "sourceWidth" : 2400,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/page-5-208w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/page-5-208w.jpg",
+        "width" : 208
+      },
+      {
+        "avif" : "images\/enhanced\/page-5-416w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/page-5-416w.jpg",
+        "width" : 416
+      },
+      {
+        "avif" : "images\/enhanced\/page-5-833w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/page-5-833w.jpg",
+        "width" : 833
+      }
+    ]
+  },
+  {
+    "source" : "images\/brochure-readable\/page-6.jpg",
+    "sourceHeight" : 5533,
+    "sourceSHA256" : "ba32a311b786f0a52e63b8ac40c1bed085ab6b577abcd487662e3253e963e2c0",
+    "sourceWidth" : 2400,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/page-6-208w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/page-6-208w.jpg",
+        "width" : 208
+      },
+      {
+        "avif" : "images\/enhanced\/page-6-416w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/page-6-416w.jpg",
+        "width" : 416
+      },
+      {
+        "avif" : "images\/enhanced\/page-6-833w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/page-6-833w.jpg",
+        "width" : 833
+      }
+    ]
+  },
+  {
+    "source" : "images\/brochure_page_1.jpg",
+    "sourceHeight" : 1844,
+    "sourceSHA256" : "15af9a2592def4b476a92a2577c3da8c3056496bf0368aefd37ae03cf1452dbe",
+    "sourceWidth" : 800,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/brochure_page_1-400w.avif",
+        "height" : 922,
+        "path" : "images\/enhanced\/brochure_page_1-400w.jpg",
+        "width" : 400
+      },
+      {
+        "avif" : "images\/enhanced\/brochure_page_1-800w.avif",
+        "height" : 1844,
+        "path" : "images\/enhanced\/brochure_page_1-800w.jpg",
+        "width" : 800
+      },
+      {
+        "avif" : "images\/enhanced\/brochure_page_1-1600w.avif",
+        "height" : 3688,
+        "path" : "images\/enhanced\/brochure_page_1-1600w.jpg",
+        "width" : 1600
+      }
+    ]
+  },
+  {
+    "source" : "images\/brochure_page_2.jpg",
+    "sourceHeight" : 1844,
+    "sourceSHA256" : "6f6b8a42c073c222dff14681cf96ff161ad99d641ee1399112cce914ce94d344",
+    "sourceWidth" : 800,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/brochure_page_2-400w.avif",
+        "height" : 922,
+        "path" : "images\/enhanced\/brochure_page_2-400w.jpg",
+        "width" : 400
+      },
+      {
+        "avif" : "images\/enhanced\/brochure_page_2-800w.avif",
+        "height" : 1844,
+        "path" : "images\/enhanced\/brochure_page_2-800w.jpg",
+        "width" : 800
+      },
+      {
+        "avif" : "images\/enhanced\/brochure_page_2-1600w.avif",
+        "height" : 3688,
+        "path" : "images\/enhanced\/brochure_page_2-1600w.jpg",
+        "width" : 1600
+      }
+    ]
+  },
+  {
+    "source" : "images\/brochure_page_3.jpg",
+    "sourceHeight" : 1844,
+    "sourceSHA256" : "6a9a74e9da6b503a204747d6eecedb3f1ac858072f2b682136adf0dae29647e7",
+    "sourceWidth" : 800,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/brochure_page_3-400w.avif",
+        "height" : 922,
+        "path" : "images\/enhanced\/brochure_page_3-400w.jpg",
+        "width" : 400
+      },
+      {
+        "avif" : "images\/enhanced\/brochure_page_3-800w.avif",
+        "height" : 1844,
+        "path" : "images\/enhanced\/brochure_page_3-800w.jpg",
+        "width" : 800
+      },
+      {
+        "avif" : "images\/enhanced\/brochure_page_3-1600w.avif",
+        "height" : 3688,
+        "path" : "images\/enhanced\/brochure_page_3-1600w.jpg",
+        "width" : 1600
+      }
+    ]
+  },
+  {
+    "source" : "images\/brochure_page_4.jpg",
+    "sourceHeight" : 1844,
+    "sourceSHA256" : "6804dd5f0756375b122851835f8d70b99730f711ccd7ccc149a337dab965f7b9",
+    "sourceWidth" : 800,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/brochure_page_4-400w.avif",
+        "height" : 922,
+        "path" : "images\/enhanced\/brochure_page_4-400w.jpg",
+        "width" : 400
+      },
+      {
+        "avif" : "images\/enhanced\/brochure_page_4-800w.avif",
+        "height" : 1844,
+        "path" : "images\/enhanced\/brochure_page_4-800w.jpg",
+        "width" : 800
+      },
+      {
+        "avif" : "images\/enhanced\/brochure_page_4-1600w.avif",
+        "height" : 3688,
+        "path" : "images\/enhanced\/brochure_page_4-1600w.jpg",
+        "width" : 1600
+      }
+    ]
+  },
+  {
+    "source" : "images\/brochure_page_5.jpg",
+    "sourceHeight" : 1844,
+    "sourceSHA256" : "554362018764df055acf683c6887d3e6097a31bbbfdeb202916ccce4c58775dd",
+    "sourceWidth" : 800,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/brochure_page_5-400w.avif",
+        "height" : 922,
+        "path" : "images\/enhanced\/brochure_page_5-400w.jpg",
+        "width" : 400
+      },
+      {
+        "avif" : "images\/enhanced\/brochure_page_5-800w.avif",
+        "height" : 1844,
+        "path" : "images\/enhanced\/brochure_page_5-800w.jpg",
+        "width" : 800
+      },
+      {
+        "avif" : "images\/enhanced\/brochure_page_5-1600w.avif",
+        "height" : 3688,
+        "path" : "images\/enhanced\/brochure_page_5-1600w.jpg",
+        "width" : 1600
+      }
+    ]
+  },
+  {
+    "source" : "images\/brochure_page_6.jpg",
+    "sourceHeight" : 1844,
+    "sourceSHA256" : "dea4d779fb1d673800b4b85ada27ee148d8211c38754fbd416b25e5b472ba157",
+    "sourceWidth" : 800,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/brochure_page_6-400w.avif",
+        "height" : 922,
+        "path" : "images\/enhanced\/brochure_page_6-400w.jpg",
+        "width" : 400
+      },
+      {
+        "avif" : "images\/enhanced\/brochure_page_6-800w.avif",
+        "height" : 1844,
+        "path" : "images\/enhanced\/brochure_page_6-800w.jpg",
+        "width" : 800
+      },
+      {
+        "avif" : "images\/enhanced\/brochure_page_6-1600w.avif",
+        "height" : 3688,
+        "path" : "images\/enhanced\/brochure_page_6-1600w.jpg",
+        "width" : 1600
+      }
+    ]
+  },
+  {
+    "source" : "images\/fire-water-supply-underground.jpg",
+    "sourceHeight" : 600,
+    "sourceSHA256" : "8d29addfa370a5c148439a252db6bb1b744c3044ed4e0f0499d85aacd6e00423",
+    "sourceWidth" : 800,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/fire-water-supply-underground-480w.avif",
+        "height" : 360,
+        "path" : "images\/enhanced\/fire-water-supply-underground-480w.jpg",
+        "width" : 480
+      },
+      {
+        "avif" : "images\/enhanced\/fire-water-supply-underground-960w.avif",
+        "height" : 720,
+        "path" : "images\/enhanced\/fire-water-supply-underground-960w.jpg",
+        "width" : 960
+      },
+      {
+        "avif" : "images\/enhanced\/fire-water-supply-underground-1920w.avif",
+        "height" : 1440,
+        "path" : "images\/enhanced\/fire-water-supply-underground-1920w.jpg",
+        "width" : 1920
+      }
+    ]
+  },
+  {
+    "source" : "images\/fire__pumpAZ.jpeg",
+    "sourceHeight" : 960,
+    "sourceSHA256" : "f0b9e5980e5e60638b5d79053a7ccf08082fba397dcbd3162c20cb21f74ff34c",
+    "sourceWidth" : 720,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/fire__pumpAZ-360w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/fire__pumpAZ-360w.jpg",
+        "width" : 360
+      },
+      {
+        "avif" : "images\/enhanced\/fire__pumpAZ-720w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/fire__pumpAZ-720w.jpg",
+        "width" : 720
+      },
+      {
+        "avif" : "images\/enhanced\/fire__pumpAZ-1440w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/fire__pumpAZ-1440w.jpg",
+        "width" : 1440
+      }
+    ]
+  },
+  {
+    "source" : "images\/fire_line_repair.jpeg",
+    "sourceHeight" : 258,
+    "sourceSHA256" : "2cffd85fbe2fbd448146545b6f0f683191ce57cfd64874b487d2227c4db59494",
+    "sourceWidth" : 258,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/fire_line_repair-480w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/fire_line_repair-480w.jpg",
+        "width" : 480
+      },
+      {
+        "avif" : "images\/enhanced\/fire_line_repair-960w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/fire_line_repair-960w.jpg",
+        "width" : 960
+      },
+      {
+        "avif" : "images\/enhanced\/fire_line_repair-1920w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/fire_line_repair-1920w.jpg",
+        "width" : 1920
+      }
+    ]
+  },
+  {
+    "source" : "images\/fire_pump_house_to_tank_connection.jpeg",
+    "sourceHeight" : 233,
+    "sourceSHA256" : "7f6a838207a3a456b86bc67d177114ad5ea204cd5dbbaed89dbd1ab9dd4c7e97",
+    "sourceWidth" : 212,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/fire_pump_house_to_tank_connection-437w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/fire_pump_house_to_tank_connection-437w.jpg",
+        "width" : 437
+      },
+      {
+        "avif" : "images\/enhanced\/fire_pump_house_to_tank_connection-873w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/fire_pump_house_to_tank_connection-873w.jpg",
+        "width" : 873
+      },
+      {
+        "avif" : "images\/enhanced\/fire_pump_house_to_tank_connection-1747w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/fire_pump_house_to_tank_connection-1747w.jpg",
+        "width" : 1747
+      }
+    ]
+  },
+  {
+    "source" : "images\/fire_pump_rebuilding.jpeg",
+    "sourceHeight" : 721,
+    "sourceSHA256" : "4172bcee1972c39ec356431d891b7242f14fcdb5ea9dfbb2846a6d32d14feda5",
+    "sourceWidth" : 612,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/fire_pump_rebuilding-407w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/fire_pump_rebuilding-407w.jpg",
+        "width" : 407
+      },
+      {
+        "avif" : "images\/enhanced\/fire_pump_rebuilding-815w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/fire_pump_rebuilding-815w.jpg",
+        "width" : 815
+      },
+      {
+        "avif" : "images\/enhanced\/fire_pump_rebuilding-1630w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/fire_pump_rebuilding-1630w.jpg",
+        "width" : 1630
+      }
+    ]
+  },
+  {
+    "source" : "images\/fire_pump_testing.png",
+    "sourceHeight" : 329,
+    "sourceSHA256" : "adeaa817198c67995828420bbb47375549f6a3a081227da48cec28eb8b7bae68",
+    "sourceWidth" : 348,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/fire_pump_testing-480w.avif",
+        "height" : 454,
+        "path" : "images\/enhanced\/fire_pump_testing-480w.png",
+        "width" : 480
+      },
+      {
+        "avif" : "images\/enhanced\/fire_pump_testing-960w.avif",
+        "height" : 908,
+        "path" : "images\/enhanced\/fire_pump_testing-960w.png",
+        "width" : 960
+      },
+      {
+        "avif" : "images\/enhanced\/fire_pump_testing-1920w.avif",
+        "height" : 1815,
+        "path" : "images\/enhanced\/fire_pump_testing-1920w.png",
+        "width" : 1920
+      }
+    ]
+  },
+  {
+    "source" : "images\/new_fire_pump.jpeg",
+    "sourceHeight" : 835,
+    "sourceSHA256" : "4395feb3c1822bc0472993668bcf11330cafb11c86d8b9cbdb1605674e896ac0",
+    "sourceWidth" : 594,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/new_fire_pump-341w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/new_fire_pump-341w.jpg",
+        "width" : 341
+      },
+      {
+        "avif" : "images\/enhanced\/new_fire_pump-683w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/new_fire_pump-683w.jpg",
+        "width" : 683
+      },
+      {
+        "avif" : "images\/enhanced\/new_fire_pump-1366w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/new_fire_pump-1366w.jpg",
+        "width" : 1366
+      }
+    ]
+  },
+  {
+    "source" : "images\/panel_pic.jpg",
+    "sourceHeight" : 1130,
+    "sourceSHA256" : "931730640dc71df83975edc83f0c29e8f90e550a7a6b2f801ebb4ef8f5bb7e54",
+    "sourceWidth" : 800,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/panel_pic-340w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/panel_pic-340w.jpg",
+        "width" : 340
+      },
+      {
+        "avif" : "images\/enhanced\/panel_pic-680w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/panel_pic-680w.jpg",
+        "width" : 680
+      },
+      {
+        "avif" : "images\/enhanced\/panel_pic-1359w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/panel_pic-1359w.jpg",
+        "width" : 1359
+      }
+    ]
+  },
+  {
+    "source" : "images\/person_monitoring.PNG",
+    "sourceHeight" : 500,
+    "sourceSHA256" : "46f191945a4fd8054e3128e46b9687ac000de56fa5d0a7b0e31018e77a43cf7a",
+    "sourceWidth" : 500,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/person_monitoring-480w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/person_monitoring-480w.png",
+        "width" : 480
+      },
+      {
+        "avif" : "images\/enhanced\/person_monitoring-960w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/person_monitoring-960w.png",
+        "width" : 960
+      },
+      {
+        "avif" : "images\/enhanced\/person_monitoring-1920w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/person_monitoring-1920w.png",
+        "width" : 1920
+      }
+    ]
+  },
+  {
+    "source" : "images\/play-pipes-rack-flow_orig.png",
+    "sourceHeight" : 300,
+    "sourceSHA256" : "e6e8da55937c668b5e0d9f096a3d83d7d0c55453d72712049cce3db8f0c1b575",
+    "sourceWidth" : 430,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/play-pipes-rack-flow_orig-480w.avif",
+        "height" : 335,
+        "path" : "images\/enhanced\/play-pipes-rack-flow_orig-480w.png",
+        "width" : 480
+      },
+      {
+        "avif" : "images\/enhanced\/play-pipes-rack-flow_orig-960w.avif",
+        "height" : 670,
+        "path" : "images\/enhanced\/play-pipes-rack-flow_orig-960w.png",
+        "width" : 960
+      },
+      {
+        "avif" : "images\/enhanced\/play-pipes-rack-flow_orig-1920w.avif",
+        "height" : 1340,
+        "path" : "images\/enhanced\/play-pipes-rack-flow_orig-1920w.png",
+        "width" : 1920
+      }
+    ]
+  },
+  {
+    "source" : "images\/pre-fabricated_fire_sprinkler_install.jpeg",
+    "sourceHeight" : 906,
+    "sourceSHA256" : "62cb97f2415e99ed826429aaf960dcde6dabea08f5422b9d28be64e4d75dcf00",
+    "sourceWidth" : 960,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/pre-fabricated_fire_sprinkler_install-480w.avif",
+        "height" : 453,
+        "path" : "images\/enhanced\/pre-fabricated_fire_sprinkler_install-480w.jpg",
+        "width" : 480
+      },
+      {
+        "avif" : "images\/enhanced\/pre-fabricated_fire_sprinkler_install-960w.avif",
+        "height" : 906,
+        "path" : "images\/enhanced\/pre-fabricated_fire_sprinkler_install-960w.jpg",
+        "width" : 960
+      },
+      {
+        "avif" : "images\/enhanced\/pre-fabricated_fire_sprinkler_install-1920w.avif",
+        "height" : 1812,
+        "path" : "images\/enhanced\/pre-fabricated_fire_sprinkler_install-1920w.jpg",
+        "width" : 1920
+      }
+    ]
+  },
+  {
+    "source" : "images\/sprinkler_maintenance.jpeg",
+    "sourceHeight" : 533,
+    "sourceSHA256" : "640b249f4300f924b018ff8912b952aef7a3be4e5fb4ab0287885baf90e1938a",
+    "sourceWidth" : 400,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/sprinkler_maintenance-360w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/sprinkler_maintenance-360w.jpg",
+        "width" : 360
+      },
+      {
+        "avif" : "images\/enhanced\/sprinkler_maintenance-720w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/sprinkler_maintenance-720w.jpg",
+        "width" : 720
+      },
+      {
+        "avif" : "images\/enhanced\/sprinkler_maintenance-1441w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/sprinkler_maintenance-1441w.jpg",
+        "width" : 1441
+      }
+    ]
+  },
+  {
+    "source" : "images\/sprinkler_repair.jpeg",
+    "sourceHeight" : 500,
+    "sourceSHA256" : "6618729a5f6d8d277714b364f1101d7103301bed2482dba254f5ae6fb147005c",
+    "sourceWidth" : 500,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/sprinkler_repair-480w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/sprinkler_repair-480w.jpg",
+        "width" : 480
+      },
+      {
+        "avif" : "images\/enhanced\/sprinkler_repair-960w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/sprinkler_repair-960w.jpg",
+        "width" : 960
+      },
+      {
+        "avif" : "images\/enhanced\/sprinkler_repair-1920w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/sprinkler_repair-1920w.jpg",
+        "width" : 1920
+      }
+    ]
+  },
+  {
+    "source" : "images\/sprinkler_system_repair.jpeg",
+    "sourceHeight" : 226,
+    "sourceSHA256" : "8c9af6728367471d17cfc3e02825e9cfc68524a343fdadc017f1ae96d86e08fa",
+    "sourceWidth" : 339,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/sprinkler_system_repair-480w.avif",
+        "height" : 320,
+        "path" : "images\/enhanced\/sprinkler_system_repair-480w.jpg",
+        "width" : 480
+      },
+      {
+        "avif" : "images\/enhanced\/sprinkler_system_repair-960w.avif",
+        "height" : 640,
+        "path" : "images\/enhanced\/sprinkler_system_repair-960w.jpg",
+        "width" : 960
+      },
+      {
+        "avif" : "images\/enhanced\/sprinkler_system_repair-1920w.avif",
+        "height" : 1280,
+        "path" : "images\/enhanced\/sprinkler_system_repair-1920w.jpg",
+        "width" : 1920
+      }
+    ]
+  },
+  {
+    "source" : "images\/tristate_icon.jpg",
+    "sourceHeight" : 336,
+    "sourceSHA256" : "cb8b641051b5c34439e3421d162b3c7527fab3a8f6d532a8bfbf54f10010763a",
+    "sourceWidth" : 265,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/tristate_icon-303w.avif",
+        "height" : 384,
+        "path" : "images\/enhanced\/tristate_icon-303w.jpg",
+        "width" : 303
+      },
+      {
+        "avif" : "images\/enhanced\/tristate_icon-606w.avif",
+        "height" : 768,
+        "path" : "images\/enhanced\/tristate_icon-606w.jpg",
+        "width" : 606
+      }
+    ]
+  },
+  {
+    "source" : "images\/tristate_logo.jpg",
+    "sourceHeight" : 460,
+    "sourceSHA256" : "da792625611dab60556bd34566bd4043883274188a99a84d4af907e064e0ace6",
+    "sourceWidth" : 1125,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/tristate_logo-320w.avif",
+        "height" : 131,
+        "path" : "images\/enhanced\/tristate_logo-320w.jpg",
+        "width" : 320
+      },
+      {
+        "avif" : "images\/enhanced\/tristate_logo-640w.avif",
+        "height" : 262,
+        "path" : "images\/enhanced\/tristate_logo-640w.jpg",
+        "width" : 640
+      },
+      {
+        "avif" : "images\/enhanced\/tristate_logo-1125w.avif",
+        "height" : 460,
+        "path" : "images\/enhanced\/tristate_logo-1125w.jpg",
+        "width" : 1125
+      }
+    ]
+  },
+  {
+    "source" : "images\/truck.JPG",
+    "sourceHeight" : 450,
+    "sourceSHA256" : "812a75d9c5ee0a64db5a9c3e02b5cbd9dab58bc4aa23e49d8be1640160161099",
+    "sourceWidth" : 800,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/truck-480w.avif",
+        "height" : 270,
+        "path" : "images\/enhanced\/truck-480w.jpg",
+        "width" : 480
+      },
+      {
+        "avif" : "images\/enhanced\/truck-960w.avif",
+        "height" : 540,
+        "path" : "images\/enhanced\/truck-960w.jpg",
+        "width" : 960
+      },
+      {
+        "avif" : "images\/enhanced\/truck-1920w.avif",
+        "height" : 1080,
+        "path" : "images\/enhanced\/truck-1920w.jpg",
+        "width" : 1920
+      }
+    ]
+  },
+  {
+    "source" : "images\/underground_control_valve3.jpeg",
+    "sourceHeight" : 783,
+    "sourceSHA256" : "e74e52a6a9739c561c021a1a3e130ccd4622fd8975c72eba18c873cb3dc24917",
+    "sourceWidth" : 616,
+    "variants" : [
+      {
+        "avif" : "images\/enhanced\/underground_control_valve3-378w.avif",
+        "height" : 480,
+        "path" : "images\/enhanced\/underground_control_valve3-378w.jpg",
+        "width" : 378
+      },
+      {
+        "avif" : "images\/enhanced\/underground_control_valve3-755w.avif",
+        "height" : 960,
+        "path" : "images\/enhanced\/underground_control_valve3-755w.jpg",
+        "width" : 755
+      },
+      {
+        "avif" : "images\/enhanced\/underground_control_valve3-1510w.avif",
+        "height" : 1920,
+        "path" : "images\/enhanced\/underground_control_valve3-1510w.jpg",
+        "width" : 1510
+      }
+    ]
+  }
+]
